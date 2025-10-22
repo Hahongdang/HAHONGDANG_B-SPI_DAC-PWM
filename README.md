@@ -1,6 +1,15 @@
 # Tên dự án / Bài tập
 
-Mô tả ngắn gọn về mục tiêu của bài tập này (ví dụ: Lập trình điều khiển GPIO để đọc nút nhấn và nháy LED).
+Bài tập 1: Điều chế cường độ sáng đèn LED (10 điểm)
+
+Mục tiêu:
+
+1. Thực hiện cấu hình một kênh Timer hoạt động ở chế độ phát xung PWM.
+   
+3. Cấu hình một chân GPIOC chân PC6 mode TIM3 CH1 tương ứng kết nối LED để xuất tín hiệu PWM.
+   
+5. Viết chương trình điều biến độ rộng xung (Duty Cycle) một cách tuần tự và liên tục trong vòng lặp chính để tạo hiệu ứng thay đổi cường độ sáng (tăng hoặc giảm) trên đèn LED.
+
 
 ---
 
@@ -8,9 +17,9 @@ Mô tả ngắn gọn về mục tiêu của bài tập này (ví dụ: Lập tr
 
 |STT| | Họ và Tên    |
 |---|
-| 1 | | Nguyễn Văn A |
-| 2 | | Trần Thị B   |
-| 3 | | Lê Văn C     |
+| 1 | |Hà Hồng Đăng  |
+| 2 | | Nguyễn Thị Thanh Ngân   |
+| 3 | | Định Văn Hùng    |
 
 ---
 
@@ -31,4 +40,4 @@ Mô tả ngắn gọn về mục tiêu của bài tập này (ví dụ: Lập tr
 ---
 ## Video Demo
 
-(Dán link YouTube video demo sản phẩm tại đây)
+https://drive.google.com/file/d/1_zrNRe7kTQbaLcIh3a4mO3bHWfBRS6JV/view?usp=sharing
